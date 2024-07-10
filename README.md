@@ -1,5 +1,12 @@
 # CODTECH-IT-INTERNSHIP-TASK-2
 
+NAME: Vineet Bholanath Gupta
+INTERN ID: CT08DS4125
+COMPANY: CODTECH IT SOLUTIONS
+DOMAIN: Embedded Systems
+DURATION: July to August
+MENTOR: 
+
 Overview: Interfacing a DHT Sensor with Arduino Using Tinkercad
 
 Objective
